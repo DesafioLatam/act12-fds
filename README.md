@@ -2,7 +2,7 @@
 
 # Unidad: Clasificación - Sesión 2
 
-* Para poder realziar esta actividad debes haber revisado la lectura correspondiente a la semana.
+* Para poder realizar esta actividad debes haber revisado la lectura correspondiente a la semana.
 * Crea una carpeta de trabajo y guarda todos los archivos correspondientes (notebook y csv).
 * Una vez terminada la actividad, comprime la carpeta y sube el `.zip` a la sección correspondiente.
 
